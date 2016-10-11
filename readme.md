@@ -24,7 +24,7 @@ You'll need to add the JIRA username and password of a account that is able to a
 
 ## Advanced
 
-Use [DashingLongNumberWidget](https://github.com/SocialbitGmbH/DashingLongNumberWidget) if you dont want `1000` story point displayed as `1K`.
+Use [DashingLongNumberWidget](https://github.com/SocialbitGmbH/DashingLongNumberWidget) if you dont want `1000` tasks displayed as `1K`.
 
 Example:
 
